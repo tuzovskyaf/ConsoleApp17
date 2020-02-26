@@ -10,6 +10,7 @@ namespace ConsoleApp17
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello? World!");
         }
     }
 }
